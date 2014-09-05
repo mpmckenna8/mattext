@@ -1,0 +1,8 @@
+{
+  "name": "simple-text-editor",
+  "main": "./html/index.html",
+  "node-remote" : "<local>",
+  "window":{
+    "toolbar":false
+  }
+}
